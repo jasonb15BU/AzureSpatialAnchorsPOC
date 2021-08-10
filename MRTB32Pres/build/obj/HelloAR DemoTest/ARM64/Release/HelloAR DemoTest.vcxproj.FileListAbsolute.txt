@@ -1,0 +1,23 @@
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\bin\ARM64\Release\resources.pri
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\bin\ARM64\Release\AppxManifest.xml
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\bin\ARM64\Release\HelloAR DemoTest.build.appxrecipe
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\HelloAR DemoTest.vcxproj.CopyComplete
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\ResourceHandlingTask.state
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\HelloAR DemoTest.vcxproj.GenerateResource.Cache
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\priconfig.xml
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\priconfig.xml.intermediate
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\unfiltered.layout.resfiles
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\unfiltered.layout.resfiles.intermediate
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\filtered.layout.resfiles
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\filtered.layout.resfiles.intermediate
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\excluded.layout.resfiles
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\excluded.layout.resfiles.intermediate
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\resources.resfiles
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\resources.resfiles.intermediate
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\pri.resfiles
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\pri.resfiles.intermediate
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\qualifiers.txt
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\qualifiers.txt.intermediate
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\ProjectArchitectures.txt
+C:\Users\jason\UnityProjects\SACopy2020.3\Unity\MRTB32Pres\build\obj\HelloAR DemoTest\ARM64\Release\.winmd_cache\$UnityPlayer.winmd_637575408780000000.json
